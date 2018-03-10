@@ -20,7 +20,7 @@ tabletoolz
 
 
 
-Lazy Evaluation of tables
+A Functional Library for Lazy Evaluation of tables
 
 
 * Free software: MIT license
